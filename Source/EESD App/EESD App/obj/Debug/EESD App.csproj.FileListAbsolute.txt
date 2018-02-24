@@ -1,0 +1,13 @@
+c:\users\pranav\source\repos\EESD App\EESD App\bin\Debug\EESD App.exe.config
+c:\users\pranav\source\repos\EESD App\EESD App\bin\Debug\EESD App.exe
+c:\users\pranav\source\repos\EESD App\EESD App\bin\Debug\EESD App.pdb
+c:\users\pranav\source\repos\EESD App\EESD App\obj\Debug\EESD App.csprojResolveAssemblyReference.cache
+c:\users\pranav\source\repos\EESD App\EESD App\obj\Debug\EESD_App.Form1.resources
+c:\users\pranav\source\repos\EESD App\EESD App\obj\Debug\EESD_App.Properties.Resources.resources
+c:\users\pranav\source\repos\EESD App\EESD App\obj\Debug\EESD App.csproj.GenerateResource.Cache
+c:\users\pranav\source\repos\EESD App\EESD App\obj\Debug\EESD App.csproj.CoreCompileInputs.cache
+c:\users\pranav\source\repos\EESD App\EESD App\obj\Debug\EESD App.exe
+c:\users\pranav\source\repos\EESD App\EESD App\obj\Debug\EESD App.pdb
+C:\Users\pranav\source\repos\EESD App\EESD App\obj\Debug\EESD_App.CarbonSaved.resources
+C:\Users\pranav\source\repos\EESD App\EESD App\obj\Debug\EESD_App.Form2.resources
+C:\Users\pranav\source\repos\EESD App\EESD App\obj\Debug\EESD_App.Form3.resources
